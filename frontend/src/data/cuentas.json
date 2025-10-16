@@ -1,0 +1,8 @@
+[
+  { "codigo": "101", "descripcion": "Caja General" },
+  { "codigo": "102", "descripcion": "Bancos" },
+  { "codigo": "201", "descripcion": "Proveedores" },
+  { "codigo": "301", "descripcion": "Ventas" },
+  { "codigo": "401", "descripcion": "IVA por Pagar" },
+  { "codigo": "402", "descripcion": "IVA por Cobrar" }
+]
